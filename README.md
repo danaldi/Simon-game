@@ -1,1 +1,3 @@
-js and jquery exercise danaldi.github.io/simon_game/
+js and jquery exercise
+
+danaldi.github.io/simon_game/
