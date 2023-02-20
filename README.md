@@ -1,3 +1,3 @@
 js and jquery exercise
 
-[play](danaldi.github.io/simon_game/)
+[play](https/danaldi.github.io/simon_game/](https://danaldi.github.io/simon_game/)
